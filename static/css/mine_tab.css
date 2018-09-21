@@ -1,0 +1,43 @@
+.mine-tab-item {
+    height: 48px;
+    padding: 0 14px;
+    display: flex;
+    align-items: center;
+
+    border-bottom: 0.5px solid #d8d8d8;
+}
+
+.item-title {
+    margin-left: 10px;
+    color: #333;
+    font-size: 18px
+}
+
+.item-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.item-arrow {
+    width: 15px;
+    height: 15px;
+    margin-left: auto;
+    padding-top: 3px;
+}
+
+.mui-media-object {
+    width: 24px;
+    height: 24px;
+}
+
+.mui-table-view:before {
+    height: 0;
+}
+
+.mui-table-view:after {
+    height: 0;
+}
+
+.mui-table-view-cell {
+    height: 49px;
+}
